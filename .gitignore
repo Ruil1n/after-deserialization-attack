@@ -1,4 +1,6 @@
 test.ser
+testBlackList.ser
+testBypass.ser
 .idea/
 target/
 .DS_Store
